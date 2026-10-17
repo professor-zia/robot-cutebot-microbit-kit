@@ -7,6 +7,6 @@ Wiki page:
 
 https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-samrt-cutebot/
 
-Tech-Specs page:
+Tech-specs page:
 
 https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_car/
