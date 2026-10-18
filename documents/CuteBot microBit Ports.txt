@@ -1,0 +1,26 @@
+CuteBot microBit Ports:
+
+P01 rear expansion G3VS header pin
+P02 rear expansion G3VS header pin
+
+P13 IR line sensor (L?)
+P14 IR line sensor (R?)
+
+P15 programmable RGB LEDs (2x rainbow LEDs)
+P16 rear IR receiver
+
+P19 IIC bus
+P20 IIC bus
+
+
+
+S01 servo1 GVS header pin
+S02 servo2 GVS header pin
+
+P?? HC-SR04 sonar/ultrasonic sensor GVS pin Trigger
+P?? HC-SR04 sonar/ultrasonic sensor GVS pin Echo
+
+P?? headlights RGB LEDs (2x)
+
+Motors: GA12-N20 DC micro gear motors (300RPM)
+Motor Controller: 1230AM
